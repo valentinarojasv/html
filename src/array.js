@@ -1,8 +1,7 @@
 document.querySelector('#header').innerHTML = "Estoy leyendo el documento Array.js"
 
 var cesta = ["Fresa","Pera","Cereza"]
-
-console.log(cesta)
+console.log
 
 cesta[0] = "Uva" // para modificar el valor de una posicion
 console.log(cesta)
@@ -34,5 +33,3 @@ var cestaVacia =[] // crear un array vacio
 
 
 var opcion = prompt("1. Ver elementos de la cesta\n2. Agregar una fruta a la cesta\n3. Quitar una fruta de la cesta")
-
-
