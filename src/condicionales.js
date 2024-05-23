@@ -38,4 +38,3 @@ else if (hay_mangos) {
   mensaje='servir vaso de agua';
   servir_vaso_de_agua();
 }
- 

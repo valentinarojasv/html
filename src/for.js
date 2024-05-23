@@ -7,4 +7,3 @@ for (let index2 = 1; index2 <= 10; index2++){
   console.log(index1 + "x" + index2 + "=", respuesta)
 }
 }
-
